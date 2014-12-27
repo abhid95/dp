@@ -1,0 +1,4 @@
+Just find out relation between present and previous instance (to fill table in bottom up fashion)
+and bottom up means dont think that it is from bottom to top of table
+It simply means that first prepare base case row or column (if any) or even diagonal line(if needed sometimes)
+and proceed from there
